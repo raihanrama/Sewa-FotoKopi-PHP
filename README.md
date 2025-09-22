@@ -21,7 +21,7 @@ Sistem Pembelian Alat Tulis (ATK) & Print Service adalah aplikasi web berbasis P
 ## ✨ Fitur
 
 ### 🛒 **Sistem Pembelian Alat Tulis**
-- **Katalog Produk** - Browse dan pencarian produk alat tulis
+- **Katalog Produk** - Browse dan pencarian produk ATK yang tersedia
 - **Keranjang Belanja** - Sistem cart yang user-friendly
 - **Manajemen Stok** - Tracking inventory real-time
 - **Checkout Terintegrasi** - Proses pemesanan yang lancar
