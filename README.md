@@ -87,13 +87,7 @@ Sistem Pembelian Alat Tulis (ATK) & Print Service adalah aplikasi web berbasis P
    ?>
    ```
 
-4. **Set Permissions**
-   ```bash
-   chmod 755 uploads/
-   chmod 644 *.php
-   ```
-
-5. **Akses Aplikasi**
+4. **Akses Aplikasi**
    Buka browser dan akses: `http://localhost/stationery-print-system`
 
 ## 📖 Penggunaan
