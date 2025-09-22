@@ -16,7 +16,7 @@
 
 ## 📋 Deskripsi
 
-Sistem Pembelian Alat Tulis & Print Service adalah aplikasi web berbasis PHP yang dirancang untuk memudahkan pengelolaan bisnis alat tulis kantor dan layanan percetakan. Sistem ini menyediakan platform terintegrasi untuk penjualan produk alat tulis serta layanan print/fotokopi dengan fitur upload dokumen.
+Sistem Pembelian Alat Tulis (ATK) & Print Service adalah aplikasi web berbasis PHP yang dirancang untuk memudahkan pengelolaan bisnis alat tulis kantor dan layanan percetakan. Sistem ini menyediakan platform terintegrasi untuk penjualan produk alat tulis serta layanan print/fotokopi dengan fitur upload dokumen.
 
 ## ✨ Fitur
 
