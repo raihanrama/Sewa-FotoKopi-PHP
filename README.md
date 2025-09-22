@@ -29,7 +29,7 @@ Sistem Pembelian Alat Tulis (ATK) & Print Service adalah aplikasi web berbasis P
 ### 🖨️ **Layanan Print & Fotokopi**
 - **Upload Dokumen** - Support multiple format file (PDF, DOC, DOCX)
 - **Preview Dokumen** - Tampilan preview sebelum print dan nama filenya 
-- **Konfigurasi Print** - Pengaturan ukuran kertas, orientasi, kualitas
+- **Konfigurasi Print** - Pengaturan ukuran kertas, orientasi, jumlah cetak
 - **Estimasi Biaya** - Kalkulasi otomatis biaya print
 
 ### 👤 **Manajemen Pengguna**
