@@ -9,7 +9,6 @@
 
 *Sistem manajemen modern untuk pembelian alat tulis kantor dan layanan print/fotokopi*
 
-[Demo](#demo) • [Fitur](#-fitur) • [Instalasi](#-instalasi) • [Penggunaan](#-penggunaan)
 
 </div>
 
