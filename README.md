@@ -155,7 +155,7 @@ Proyek ini dilisensikan under MIT License - lihat file [LICENSE](LICENSE) untuk 
 
 ## 👨‍💻 Developer
 
-Dikembangkan dengan ❤️ oleh **[Raihanrama](https://github.com/raihanrama)**
+Dikembangkan dengan ❤️ oleh **[muhammad raihan ramadhan](https://github.com/raihanrama)**
 
 ---
 
