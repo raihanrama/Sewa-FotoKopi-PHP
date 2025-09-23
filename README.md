@@ -67,7 +67,7 @@ Sistem Pembelian Alat Tulis (ATK) & Print Service adalah aplikasi web berbasis P
 1. **Clone Repository**
    ```bash
    git clone https://github.com/raihanrama/Sewa-FotoKopi-PHP.git
-   cd stationery-print-system
+   cd Sewa-FotoKopi-PHP
    ```
 
 2. **Setup Database**
