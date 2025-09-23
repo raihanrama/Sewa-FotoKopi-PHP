@@ -88,7 +88,7 @@ Sistem Pembelian Alat Tulis (ATK) & Print Service adalah aplikasi web berbasis P
    ```
 
 4. **Akses Aplikasi**
-   Buka browser dan akses: `http://localhost/stationery-print-system`
+   Buka browser dan akses: `http://localhost/Sewa-FotoKopi-PHP`
 
 ## 📖 Penggunaan
 
