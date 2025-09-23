@@ -130,16 +130,6 @@ stationery-print-system/
 - **Session Management** - Pengelolaan sesi yang aman
 - **Access Control** - Sistem otorisasi berbasis role
 
-## 🎨 Screenshots
-
-### Dashboard Utama
-*[Tambahkan screenshot dashboard utama]*
-
-### Katalog Produk
-*[Tambahkan screenshot katalog produk]*
-
-### Upload & Print Service
-*[Tambahkan screenshot fitur upload]*
 
 ## 📈 Roadmap
 
