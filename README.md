@@ -83,7 +83,7 @@ Sistem Pembelian Alat Tulis (ATK) & Print Service adalah aplikasi web berbasis P
    $host = 'localhost';
    $username = ' ';
    $password = ' ';
-   $database = 'stationery_print_db';
+   $database = 'fotokopi';
    ?>
    ```
 
