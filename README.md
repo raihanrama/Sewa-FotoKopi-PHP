@@ -72,7 +72,7 @@ Sistem Pembelian Alat Tulis (ATK) & Print Service adalah aplikasi web berbasis P
 
 2. **Setup Database**
    ```sql
-   CREATE DATABASE stationery_print_db;
+   CREATE DATABASE fotokopi;
    ```
    Import file database SQL yang disediakan
 
