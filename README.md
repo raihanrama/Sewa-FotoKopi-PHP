@@ -161,8 +161,6 @@ Dikembangkan dengan ❤️ oleh **[muhammad raihan ramadhan](https://github.com/
 
 <div align="center">
 
-**[⭐ Star this repository jika bermanfaat!](https://github.com/raihanrama/stationery-print-system)**
-
-Made with ❤️ in Indonesia 🇮🇩
+**[⭐ Star this repository jika bermanfaat!](https://github.com/raihanrama/Sewa-FotoKopi-PHP)**
 
 </div>
