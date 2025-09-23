@@ -66,7 +66,7 @@ Sistem Pembelian Alat Tulis (ATK) & Print Service adalah aplikasi web berbasis P
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/username/stationery-print-system.git
+   git clone https://github.com/raihanrama/stationery-print-system.git
    cd stationery-print-system
    ```
 
