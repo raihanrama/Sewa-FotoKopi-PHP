@@ -161,6 +161,6 @@ Dikembangkan dengan ❤️ oleh **[muhammad raihan ramadhan](https://github.com/
 
 <div align="center">
 
-**[⭐ Star this repository jika bermanfaat!](https://github.com/raihanrama/Sewa-FotoKopi-PHP)**
+**[⭐ Star this repository!](https://github.com/raihanrama/Sewa-FotoKopi-PHP)**
 
 </div>
