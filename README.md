@@ -94,7 +94,7 @@ Sistem Pembelian Alat Tulis (ATK) & Print Service adalah aplikasi web berbasis P
 ### Untuk Customer
 1. **Registrasi/Login** - Buat akun atau masuk ke sistem
 2. **Browse Produk** - Jelajahi katalog alat tulis (ATK)
-3. **Tambah ke Keranjang** - Pilih produk yang diinginkan
+3. **Tambah ke Keranjang** - Pilih produk yang diinginkan kedalam keranjang
 4. **Upload Dokumen** - Upload file untuk layanan print
 5. **Checkout** - Proses pembayaran dan konfirmasi pesanan
 
