@@ -48,7 +48,7 @@ Sistem Pembelian Alat Tulis (ATK) & Print Service adalah aplikasi web berbasis P
 - **Backend**: PHP 7.4+
 - **Database**: MySQL 5.7+
 - **Frontend**: HTML5, CSS3, JavaScript
-- **Styling**: Custom CSS dengan desain responsive at mobile 
+- **Styling**: Custom CSS dengan desain responsive at mobile and dekstop
 - **File Upload**: PHP File Handling dengan validasi keamanan
 
 ## 🚀 Instalasi
