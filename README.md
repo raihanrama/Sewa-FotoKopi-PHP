@@ -42,7 +42,6 @@ Sistem Pembelian Alat Tulis (ATK) & Print Service adalah aplikasi web berbasis P
 - **Manajemen Produk** - CRUD produk alat tulis
 - **Laporan Penjualan** - Analytics dan reporting
 - **Manajemen Order** - Tracking status pesanan
-- **Konfigurasi Sistem** - Pengaturan aplikasi
 
 ## 🛠️ Teknologi
 
